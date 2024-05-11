@@ -84,13 +84,13 @@ Here are some ideas to get you started:
 <!-- Contact Section -->
 <div class="contact-section">
   <h3>📫Feel free to Contact me on 🚀</h3>
-  <div class="social-icons">
+  <div class="social-icons" align="center">
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/shobhit-kumar-31346a193/" target="_blank">
      <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
     </a>
-    <!-- Gmail -->
-    <br>
+   
+  
     <a href="mailto:souryashobhit206@gmail.com">
       <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>
     </a>
