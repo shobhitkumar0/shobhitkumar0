@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="left">Hey!Welcome 😄  </h1>
+<h2 align="left">Hi! Welcome 😄  </h1>
 
 ###
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left"><br>- 🔭 I’m working as software developer at Amdocs
-<br>- 📚 I'm currently learning mern stack and python <br>- ⚡ I'm ready to challenge myself with challenging problem <br>- 📚 I'm looking for full time Opportunities <br> - 📚 Ask me anything about MERN Stack or Python development  <br></p>
+<br>- 🌱 I'm currently learning Mern stack and Python <br>- ⚡ I'm ready to challenge myself with challenging problem <br>- 📚 I'm looking for full time Opportunities <br> - 👯 Ask me anything about MERN Stack or Python development  <br></p>
 
 ###
 
@@ -83,15 +83,15 @@ Here are some ideas to get you started:
 
 <!-- Contact Section -->
 <div class="contact-section">
-  <h3>Feel free to Contact me on 🚀</h3>
+  <h3>📫Feel free to Contact me on 🚀</h3>
   <div class="social-icons">
     <!-- LinkedIn -->
-    <a href="YOUR_LINKEDIN_URL" target="_blank">
-      <img src="URL_TO_YOUR_LINKEDIN_ICON" alt="LinkedIn">
+    <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/shobhit-kumar-31346a193/)" target="_blank">
+      <img src="(https://icons8.com/icon/13930/linkedin)" alt="LinkedIn">
     </a>
     <!-- Gmail -->
-    <a href="mailto:YOUR_EMAIL">
-      <img src="URL_TO_YOUR_GMAIL_ICON" alt="Gmail">
+    <a href="mailto:souryashobhit206@gmail.com">
+      <img src="(https://icons8.com/icon/P7UIlhbpWzZm/gmail)" alt="Gmail">
     </a>
    
   </div>
