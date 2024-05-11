@@ -90,6 +90,7 @@ Here are some ideas to get you started:
       <img src="(https://icons8.com/icon/13930/linkedin)" alt="LinkedIn">
     </a>
     <!-- Gmail -->
+    <br>
     <a href="mailto:souryashobhit206@gmail.com">
       <img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="Gmail">
     </a>
