@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left"><br>- 🔭 I’m currently working as software developer at Amdocs
-<br>- 🌱 I'm currently learning Mern stack and Python <br>- ⚡ I'm ready to challenge myself with new problems.<br>- 📚 I'm looking for full time Opportunities. <br> - 👯 Ask me anything about MERN Stack or Python development  <br></p>
+<br>- 🌱 I'm currently learning MERN stack and Python <br>- ⚡ I'm ready to challenge myself with new problems.<br>- 📚 I'm looking for full time Opportunities. <br> - 👯 Ask me anything about MERN Stack or Python development  <br></p>
 
 ###
 <hr>
