@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>- 🌱 I'm currently learning Mern stack and Python <br>- ⚡ I'm ready to challenge myself with new problems.<br>- 📚 I'm looking for full time Opportunities. <br> - 👯 Ask me anything about MERN Stack or Python development  <br></p>
 
 ###
-
+<hr>
 <h3 align="left">🛠 Languages</h3>
 
 ###
