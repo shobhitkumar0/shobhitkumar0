@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+  <img width="62" height="62" src="https://img.icons8.com/color/62/javascript--v1.png" alt="javascript--v1"/>
+  <img width="62" height="62" src="https://img.icons8.com/color/62/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+  <img width="62" height="62" src="https://img.icons8.com/color/62/python--v1.png" alt="python--v1"/>
+  <img width="62" height="62" src="https://img.icons8.com/fluency/62/node-js.png" alt="node-js"/>
+  <img width="62" height="62" src="https://img.icons8.com/ios/62/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 
 
   
@@ -51,16 +51,16 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="left">🛠 Frameworks and Tools</h3>
 <div align="center">
-  <img width="48" height="48" width="12" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/carbon-copy/100/github-squared.png" alt="github-squared"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/nolan/64/putty.png" alt="putty"/>
-  <img width="48" height="48" src="https://img.icons8.com/office/16/react.png" alt="react"/><br>
- <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/>
+  <img width="62" height="62" width="12" src="https://img.icons8.com/color/62/html-5--v1.png" alt="html-5--v1"/>
+   <img width="62" height="62" src="https://img.icons8.com/fluency/62/css3.png" alt="css3"/>
+<img width="62" height="62" src="https://img.icons8.com/carbon-copy/100/github-squared.png" alt="github-squared"/>
+  <img width="62" height="62" src="https://img.icons8.com/color/62/linux--v1.png" alt="linux--v1"/>
+  <img width="62" height="62" src="https://img.icons8.com/nolan/64/putty.png" alt="putty"/>
+  <img width="62" height="62" src="https://img.icons8.com/office/16/react.png" alt="react"/>
+ <img width="62" height="62" src="https://img.icons8.com/color/62/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img width="62" height="62" src="https://img.icons8.com/color/62/npm.png" alt="npm"/>
+  <img width="62" height="62" src="https://img.icons8.com/color/62/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+  <img width="62" height="62" src="https://img.icons8.com/color/62/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/>
 </div>
 
 
@@ -69,10 +69,10 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="left">🛠 Database</h3>
 <div align="center">
-<img width="48" height="48" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="mysql-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
-  <img width="48" height="48" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo"/>
-    <img width="50" height="50" src="https://img.icons8.com/ios/50/sql.png" alt="sql"/>
+<img width="62" height="62" src="https://img.icons8.com/ios-filled/62/mysql-logo.png" alt="mysql-logo"/>
+  <img width="62" height="62" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
+  <img width="62" height="62" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo"/>
+    <img width="62" height="62" src="https://img.icons8.com/ios/62/sql.png" alt="sql"/>
 </div>
 
 
@@ -87,13 +87,13 @@ Here are some ideas to get you started:
   <div class="social-icons" align="center">
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/shobhit-kumar-31346a193/" target="_blank">
-     <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+     <img width="62" height="62" src="https://img.icons8.com/color/62/linkedin.png" alt="linkedin"/>
     </a>
-    <div>
+  <i></i>
     <a href="mailto:souryashobhit206@gmail.com">
-      <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>
+      <img width="62" height="62" src="https://img.icons8.com/fluency/62/gmail.png" alt="gmail"/>
     </a>
-   </div>
+ 
   </div>
 </div>
 
