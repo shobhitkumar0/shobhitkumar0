@@ -76,13 +76,13 @@ Here are some ideas to get you started:
   <h3>📫Feel free to Contact me on 🚀</h3>
   <div class="social-icons">
     <!-- LinkedIn -->
-    <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/shobhit-kumar-31346a193/)" target="_blank">
-      <img src="(https://icons8.com/icon/13930/linkedin)" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/shobhit-kumar-31346a193/" target="_blank">
+     <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
     </a>
     <!-- Gmail -->
     <br>
     <a href="mailto:souryashobhit206@gmail.com">
-      <img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="Gmail">
+      <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>
     </a>
    
   </div>
