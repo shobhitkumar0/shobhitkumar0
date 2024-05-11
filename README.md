@@ -56,10 +56,11 @@ Here are some ideas to get you started:
 <img width="48" height="48" src="https://img.icons8.com/carbon-copy/100/github-squared.png" alt="github-squared"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/nolan/64/putty.png" alt="putty"/>
-  <img width="48" height="48" src="https://img.icons8.com/office/16/react.png" alt="react"/>
+  <img width="48" height="48" src="https://img.icons8.com/office/16/react.png" alt="react"/><br>
  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/>
 </div>
 
 
