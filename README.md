@@ -88,11 +88,5 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-###
-hr {
-  border: none;
-  height: 1px;
-  background-color: #333; /* or any color you prefer */
-  margin-top: 20px; /* space above the line */
-  margin-bottom: 20px; /* space below the line */
-}
+
+
