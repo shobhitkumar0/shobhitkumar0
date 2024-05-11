@@ -44,22 +44,11 @@ Here are some ideas to get you started:
  height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+ 
 
+
+</div>
+<hr>
 ###
 <h3 align="left">🛠 Frameworks and Tools</h3>
 
@@ -71,6 +60,7 @@ Here are some ideas to get you started:
 </div>
 ####
 ###
+<hr>
 <h3 align="left">🛠 Database</h3>
 
 ###
@@ -80,7 +70,7 @@ Here are some ideas to get you started:
 " height="40" alt="go logo"  />
 </div>
 ###
-
+<hr>
 <!-- Contact Section -->
 <div class="contact-section">
   <h3>📫Feel free to Contact me on 🚀</h3>
@@ -99,3 +89,10 @@ Here are some ideas to get you started:
 </div>
 
 ###
+hr {
+  border: none;
+  height: 1px;
+  background-color: #333; /* or any color you prefer */
+  margin-top: 20px; /* space above the line */
+  margin-bottom: 20px; /* space below the line */
+}
