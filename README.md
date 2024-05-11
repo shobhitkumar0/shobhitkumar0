@@ -39,7 +39,13 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img width="48" height="48" width="12" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-   
+   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/sql.png" alt="sql"/>
+  <img width="24" height="24" src="https://img.icons8.com/material-rounded/24/mysql-logo.png" alt="mysql-logo"/>
   <img  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
  
