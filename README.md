@@ -38,11 +38,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35352f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67](https://github.com/shobhitkumar0/shobhitkumar0/assets/55182906/d46ee432-c7a3-49c4-8c05-5ee41e35559a)
-" height="40" alt="go logo"  />
-    <img src="![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35352f3030303030302f6a6176617363726970742e706e67](https://github.com/shobhitkumar0/shobhitkumar0/assets/55182906/d9d6b0cc-1398-4631-b562-42eeea9b901f)"
- height="40" alt="go logo"  />
-  <img width="12" />
+  <img width="48" height="48" width="12" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+   
+  <img  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
  
 
