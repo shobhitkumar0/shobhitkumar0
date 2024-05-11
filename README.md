@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"><br>- 🔭 I’m working as software developer at Amdocs
-<br>- 🌱 I'm currently learning Mern stack and Python <br>- ⚡ I'm ready to challenge myself with challenging problem <br>- 📚 I'm looking for full time Opportunities <br> - 👯 Ask me anything about MERN Stack or Python development  <br></p>
+<p align="left"><br>- 🔭 I’m currently working as software developer at Amdocs
+<br>- 🌱 I'm currently learning Mern stack and Python <br>- ⚡ I'm ready to challenge myself with new problems.<br>- 📚 I'm looking for full time Opportunities. <br> - 👯 Ask me anything about MERN Stack or Python development  <br></p>
 
 ###
 
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
     </a>
     <!-- Gmail -->
     <a href="mailto:souryashobhit206@gmail.com">
-      <img src="(https://icons8.com/icon/P7UIlhbpWzZm/gmail)" alt="Gmail">
+      <img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="Gmail">
     </a>
    
   </div>
