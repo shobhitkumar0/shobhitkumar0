@@ -23,25 +23,24 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+
 
 ###
 
-<h1 align="center">hey welcome 😄  </h1>
+<h1 align="center">Hey!Welcome 😄  </h1>
 
 ###
 
-<h3 align="left">👩‍💻 Lets know me </h3>
+<h3 align="left">👩‍💻![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966](https://github.com/shobhitkumar0/shobhitkumar0/assets/55182906/94c231cd-f637-4be2-87ea-e0eea05236b8)
+ Lets know me </h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as software developer at Amdocs <br>- 📚 I'm currently learning mern stack and python <br>- ⚡ I'm ready to challenge myself with challenging problem </p> <br>- 📚 I'm looking for full time opportunities <br> <br>- 📚 Ask me anything about MERN Stack or python  <br>
+<p align="left"><br>- 🔭 I’m working as software developer at Amdocs <br>- 📚 I'm currently learning mern stack and python <br>- ⚡ I'm ready to challenge myself with challenging problem </p> <br>- 📚 I'm looking for full time Opportunities <br> <br>- 📚 Ask me anything about MERN Stack or Python development  <br>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages</h3>
 
 ###
 
@@ -69,8 +68,27 @@ Here are some ideas to get you started:
 </div>
 
 ###
+<h3 align="left">🛠 Frameworks and Tools</h3>
 
-<h3 align="left">🔥   My Stats :</h3>
+###
+
+<div align="left">
+  <img src="![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35352f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67](https://github.com/shobhitkumar0/shobhitkumar0/assets/55182906/d46ee432-c7a3-49c4-8c05-5ee41e35559a)
+" height="40" alt="go logo"  />
+</div>
+##############
+###
+<h3 align="left">🛠 Database</h3>
+
+###
+
+<div align="left">
+  <img src="![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35352f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67](https://github.com/shobhitkumar0/shobhitkumar0/assets/55182906/d46ee432-c7a3-49c4-8c05-5ee41e35559a)
+" height="40" alt="go logo"  />
+</div>
+##############
+
+<h3 align="left">🔥 Feel Free To Contact Me</h3>
 
 ###
 
