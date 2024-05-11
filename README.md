@@ -45,33 +45,34 @@ Here are some ideas to get you started:
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="50" height="50" src="https://img.icons8.com/ios/50/sql.png" alt="sql"/>
-  <img width="24" height="24" src="https://img.icons8.com/material-rounded/24/mysql-logo.png" alt="mysql-logo"/>
-  <img  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
- 
 
+  
 
 </div>
 <hr>
 ###
 <h3 align="left">🛠 Frameworks and Tools</h3>
-
+<div align="left">
+<img width="16" height="16" src="https://img.icons8.com/office/16/000000/github.png" alt="github"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/putty.png" alt="putty"/>
+  
+ <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+</div>
 ###
 
-<div align="left">
-  <img src="![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35352f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67](https://github.com/shobhitkumar0/shobhitkumar0/assets/55182906/d46ee432-c7a3-49c4-8c05-5ee41e35559a)
-" height="40" alt="go logo"  />
-</div>
+
 ####
 ###
 <hr>
 <h3 align="left">🛠 Database</h3>
-
+<div align="left">
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="mysql-logo"/>
+</div>
 ###
 
-<div align="left">
-  <img src="![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35352f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67](https://github.com/shobhitkumar0/shobhitkumar0/assets/55182906/d46ee432-c7a3-49c4-8c05-5ee41e35559a)
-" height="40" alt="go logo"  />
+
+ 
 </div>
 ###
 <hr>
