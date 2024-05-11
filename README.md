@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<div align="center">
   
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 </div>
 <hr>
 ###<h3 align="left">🛠 Frameworks and Tools</h3>
-<div align="left">
+<div align="center">
   <img width="48" height="48" width="12" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/office/16/github.png" alt="github"/>
+<img width="48" height="48" src="https://img.icons8.com/carbon-copy/100/github-squared.png" alt="github-squared"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/putty.png" alt="putty"/>
   <img width="16" height="16" src="https://img.icons8.com/office/16/react.png" alt="react"/>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <hr>
 <h3 align="left">🛠 Database</h3>
-<div align="left">
+<div align="center">
 <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="mysql-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
   <img width="48" height="48" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo"/>
