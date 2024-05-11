@@ -38,36 +38,38 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img width="48" height="48" width="12" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+  
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/sql.png" alt="sql"/>
+
 
   
 
 </div>
 <hr>
-###
-<h3 align="left">🛠 Frameworks and Tools</h3>
+###<h3 align="left">🛠 Frameworks and Tools</h3>
 <div align="left">
-<img width="16" height="16" src="https://img.icons8.com/office/16/000000/github.png" alt="github"/>
+  <img width="48" height="48" width="12" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/office/16/github.png" alt="github"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/putty.png" alt="putty"/>
   
  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </div>
-###
 
 
-####
-###
+
+
 <hr>
 <h3 align="left">🛠 Database</h3>
 <div align="left">
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="mysql-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="mysql-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
+  <img width="48" height="48" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo"/>
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/sql.png" alt="sql"/>
 </div>
 ###
 
