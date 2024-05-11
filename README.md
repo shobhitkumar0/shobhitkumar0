@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 
 
   
@@ -56,8 +57,10 @@ Here are some ideas to get you started:
 <img width="48" height="48" src="https://img.icons8.com/office/16/github.png" alt="github"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/putty.png" alt="putty"/>
-  
+  <img width="16" height="16" src="https://img.icons8.com/office/16/react.png" alt="react"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 </div>
 
 
@@ -71,12 +74,12 @@ Here are some ideas to get you started:
   <img width="48" height="48" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo"/>
     <img width="50" height="50" src="https://img.icons8.com/ios/50/sql.png" alt="sql"/>
 </div>
-###
+
 
 
  
 </div>
-###
+
 <hr>
 <!-- Contact Section -->
 <div class="contact-section">
