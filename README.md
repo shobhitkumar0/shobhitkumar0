@@ -6,7 +6,7 @@
 
 <p align="left">
 <br>🔭 I’m currently working as a Full Stack Developer at Amdocs.  
-<br>🌱 I'm currently learning the **MERN stack** and **Python** to expand my technical expertise.  
+<br>🌱 I'm currently learning the **Java Full Stack** and **React JS** to expand my technical expertise.  
 <br>⚡ I enjoy solving challenges and building scalable, fault-tolerant applications.  
 <br>📚 I'm open to full-time opportunities in Software Development.  
 <br>👯 Feel free to ask me about **Java**, **Spring Boot**, **ReactJS**, or **Microservices Development**.  
